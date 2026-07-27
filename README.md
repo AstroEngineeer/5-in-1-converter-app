@@ -1,4 +1,4 @@
-# 5 in 1 Converter
+# 5-in-1 Converter App
 
 A flutter app that can perform various conversions such as
 - Electrical Converter (Amps, kW, kVA, VA, volts, watts, joules, kW, mAh, Wh)
